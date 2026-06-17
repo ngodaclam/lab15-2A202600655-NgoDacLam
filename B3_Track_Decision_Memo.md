@@ -6,7 +6,7 @@ Bản ghi nhớ này tổng hợp quyết định định hướng chuyên sâu 
 
 ```text
 TRACK DECISION MEMO - Day 15
-Họ tên: NGÔ ĐẮC LÂM                 MSSV: 2A202600655
+Họ tên: NGÔ ĐẮC LÃM                 MSSV: 2A202600655
 Pathway: A (Tìm / chuyển việc)
 ```
 
