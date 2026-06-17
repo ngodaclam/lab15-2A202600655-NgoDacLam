@@ -3,7 +3,7 @@
 Chào mừng đến với thư mục bài tập Lab 15 của tôi. Thư mục này chứa toàn bộ các nghiên cứu và bản ghi nhớ quyết định định hướng chuyên sâu cho Phase 2 của chương trình đào tạo.
 
 ## Thông Tin Sinh Viên
-*   **Họ và tên**: Ngô Đắc Lamm
+*   **Họ và tên**: Ngô Đắc Lãm 
 *   **Mã số sinh viên (MSSV)**: 2A202600655
 *   **Lớp / Khóa học**: Cohort 2 - AI Application Engineering
 
